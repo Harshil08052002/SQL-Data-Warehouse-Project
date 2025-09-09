@@ -6,7 +6,7 @@ This project demonstrates a comprehansice data are houseing and analytics soluti
 ---
 
 **Data Architecture**
-
+[DWH Project Diagram.drawio](https://github.com/user-attachments/files/22239864/DWH.Project.Diagram.drawio)
 
 ## 🚀Project Requirments
 
