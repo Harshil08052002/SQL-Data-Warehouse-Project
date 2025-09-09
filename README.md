@@ -6,7 +6,7 @@ This project demonstrates a comprehansice data are houseing and analytics soluti
 ---
 
 **Data Architecture**
-
+![image alt](https://github.com/Harshil08052002/SQL-Data-Warehouse-Project/blob/c4b83fac7f083a8a12be0c2fe2272c913d15d22b/DWH%20Project%20Diagram.jpg)
 
 ## 🚀Project Requirments
 
